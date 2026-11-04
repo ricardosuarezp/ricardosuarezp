@@ -1,43 +1,19 @@
-<h2 align="left">Hi 👋! My name is Ricardo and I'm a back-end developer from Perú</h2>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=190&section=header&text=Ricardo%20Suarez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Per%C3%BA&descAlignY=60&descSize=18" alt="Ricardo Suarez - Back-end Developer" /> <a href="https://github.com/ricardosuarezp"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Ricardo!;Back-end+developer+from+Per%C3%BA;I+build+REST+APIs+and+microservices;Java+%7C+Node.js+%7C+TypeScript+%7C+React" alt="Typing animation" /> </a> </div>
+👨‍💻 About me
 
-###
+Back-end developer and student from Perú. I enjoy building REST APIs, microservices and web apps, and I'm always learning something new.
 
-<img align="right" height="123" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZvZmN3OHRudnEyN25xMjF4b2x6eGdhNWZ6dng2M2RoZnE5N3hsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="mailto:ricardo.suarez27@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://api.whatsapp.com/send?phone=51978497059" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
+🔭 Working on a sports academy management system (Gaman Perú)
+🌱 Learning iOS development with Swift and SwiftUI
+📫 Reach me: ricardo.suarez27@outlook.com
+🚀 Languages I code in
+<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </div>
+🧰 Frameworks & tools
+<div align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/Microservices-326CE5?style=flat-square" alt="Microservices" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Learning-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Learning Swift" /> </div> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosuarezp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" /> </div>
+🕹️ My contribution graph
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardosuarezp/ricardosuarezp/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardosuarezp/ricardosuarezp/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardosuarezp/ricardosuarezp/output/pacman-contribution-graph.svg"> </picture> </div>
+📬 Let's connect
+<div align="center"> <a href="mailto:ricardo.suarez27@outlook.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email" /> </a> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" /> <a href="https://api.whatsapp.com/send?phone=51978497059" target="_blank"> <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp" /> </a> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=90&section=footer" alt="footer" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardosuarezp/ricardosuarezp/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardosuarezp/ricardosuarezp/output/pacman-contribution-graph.svg">
