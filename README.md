@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=190&section=header&text=Ricardo%20Suarez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Per%C3%BA&descAlignY=60&descSize=18" alt="Ricardo Suarez - Back-end Developer" />
 
 <a href="https://github.com/ricardosuarezp">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Ricardo!;Back-end+developer+from+Per%C3%BA;I+build+REST+APIs+and+microservices;Java+%7C+Node.js+%7C+TypeScript+%7C+React" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Ricardo!;Back-end+developer+from+Per%C3%BA;I+build+REST+APIs+and+microservices;Java+25+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Docker" alt="Typing animation" />
 </a>
 
 </div>
@@ -25,12 +25,23 @@ Back-end developer and student from Perú. I enjoy building REST APIs, microserv
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 25" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+</div>
+
+## ⚙️ Back-end stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
