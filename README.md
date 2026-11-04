@@ -16,6 +16,7 @@ Back-end developer and student from Perú. I enjoy building REST APIs, microserv
 
 - 🔭 Working on a sports academy management system (Gaman Perú)
 - 🌱 Learning iOS development with Swift and SwiftUI
+- 🌐 Portfolio: [rspdeveloper.com](https://www.rspdeveloper.com/)
 - 📫 Reach me: [ricardo.suarez27@outlook.com](mailto:ricardo.suarez27@outlook.com)
 
 ---
@@ -48,10 +49,6 @@ Back-end developer and student from Perú. I enjoy building REST APIs, microserv
 
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosuarezp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</div>
-
 ---
 
 ## 🕹️ My contribution graph
@@ -74,9 +71,14 @@ Back-end developer and student from Perú. I enjoy building REST APIs, microserv
   <a href="mailto:ricardo.suarez27@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/ricardo-su%C3%A1rez-portuguez-475249191/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
   <a href="https://api.whatsapp.com/send?phone=51978497059" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp" />
+  </a>
+  <a href="https://www.rspdeveloper.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=1f6feb&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
 </div>
 
